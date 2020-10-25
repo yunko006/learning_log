@@ -1,0 +1,6 @@
+.idea
+.vscode
+ll_env/
+__pychache__/
+*.sqlite3
+.DS_store
